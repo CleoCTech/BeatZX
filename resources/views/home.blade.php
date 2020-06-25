@@ -4,6 +4,9 @@
 <div class="container">
     <h1 class="text-center"><span>HOME PAGE</span></h1>
 
+    {{-- edit your home page here, the main css is in /public/css. It is imported in app.blade.php  --}}
+
+
     {{-- <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
